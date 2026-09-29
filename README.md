@@ -7,5 +7,5 @@ Jogo de plataforma 2D em pixel art feito com HTML, CSS e JavaScript puro (Canvas
 - Espaço / ↑ (ou W): pular
 - Pise nos murklings por cima, colete glowdrops e chegue ao portal das 3 fases.
 
-## Rodar localmente
-Abra o `index.html` no navegador. Não precisa de build.
+## Site
+Link: https://glimmer-hollow.vercel.app/
